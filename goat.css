@@ -18,6 +18,7 @@ body {
 }
 
 #flex {
-    border-top: 1px dotted #ccc;
     display: flex;
+    flex: 1;
+    margin-right: 20px;
 }
