@@ -10,9 +10,14 @@ header {
 
 body {
     font-family: monospace;
-    color: darkslategray;
+    color: white;
     border-top: 8px solid #4b74e7;
     background: #fff;
+}
+
+h1 {
+    background: #4b74e7;
+
 }
 
 #flex {
