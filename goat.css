@@ -20,6 +20,12 @@ h1 {
 
 }
 
+#publicannouncment {
+    margin-right: 20px;
+    background-color: darkgrey;
+    padding: 20px;
+}
+
 #flex {
     display: flex;
 }
