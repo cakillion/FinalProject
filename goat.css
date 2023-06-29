@@ -73,8 +73,20 @@ h1 {
 
 .one {
     background: darkgray;
-    color: black;
+    color: white;
     border-bottom: dotted 2px;
+}
+
+#smeet {
+    margin-right: 20px;
+    background-color: darkgrey;
+    padding: 20px;
+}
+
+#meetingform {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
 }
 
 
