@@ -3,7 +3,7 @@ html {
 }
 
 header {
-    background: #fff;
+    background: #4b74e7;
     position: sticky;
     top: 0;
 }
@@ -13,7 +13,7 @@ body {
     margin: 45px;
     padding: 45px;
     color: darkslategray;
-    border-top: 8px solid darkslategrey;
+    border-top: 8px solid #4b74e7;
     background: #fff;
 }
 
