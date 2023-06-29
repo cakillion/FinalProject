@@ -4,6 +4,7 @@ html {
 
 header {
     background: #4b74e7;
+    position: sticky;
     margin: 0px;
     top: 0;
 }
