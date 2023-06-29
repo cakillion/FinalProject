@@ -59,7 +59,8 @@ h1 {
 }
 
 .pic {
-    width: 45px;
+    width: 100px;
     height: auto;
     float: right;
+    margin-top: -15px;
 }
