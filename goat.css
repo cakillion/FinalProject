@@ -26,6 +26,12 @@ h1 {
     padding: 20px;
 }
 
+.pub {
+    margin-right: 20px;
+    background-color: darkgrey;
+    padding: 20px;
+}
+
 #flex {
     display: flex;
     flex-direction: column;
